@@ -1,0 +1,14 @@
+{
+  "client": "Оксана Кожевникова",
+  "expectedAvitoUserId": "9523215",
+  "repository": "margobatagova28-glitch/oksana-avito-feed",
+  "publicFeedUrl": "https://margobatagova28-glitch.github.io/oksana-avito-feed/feed.xml",
+  "allowedIdPrefix": "oksana-",
+  "allowedImageUrlPrefix": "https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/",
+  "forbiddenMarkers": [
+    "376431005",
+    "gulshat",
+    "гульшат",
+    "bulgakova"
+  ]
+}
