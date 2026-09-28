@@ -359,4 +359,61 @@
       <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-reviews500-10-v2.png" />
     </Images>
   </Ad>
+  <Ad>
+    <Id>oksana-service-results-only-20260928</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Эпиляция</ServiceSubtype>
+    <Specialty>Лазерная эпиляция</Specialty>
+    <ClientGender>
+      <Option>Женщины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>Женщина</SpecialistGender>
+    <WorkDays>
+      <Option>Понедельник</Option>
+      <Option>Вторник</Option>
+      <Option>Среда</Option>
+      <Option>Четверг</Option>
+      <Option>Пятница</Option>
+      <Option>Суббота</Option>
+      <Option>Воскресенье</Option>
+    </WorkDays>
+    <WorkTimeFrom>10:00</WorkTimeFrom>
+    <WorkTimeTo>20:00</WorkTimeTo>
+    <Title>Лазерная эпиляция. Реальные результаты до и после</Title>
+    <Description><![CDATA[Хотите оценить лазерную эпиляцию по результатам, а не по красивым обещаниям? Посмотрите фотографии «до/после»: в галерее нет постановочных кадров, кабинета и рекламных картинок. Для удобства четыре исходных сравнения дополнены четырьмя крупными кадрами тех же результатов.
+
+Показаны результаты лазерной эпиляции:
+
+— подмышки после одной процедуры;
+— подмышки после двух процедур;
+— подмышки после трёх процедур;
+— голени после трёх процедур.
+
+Процедуру проводит Оксана Кожевникова — мастер с опытом более 5 лет. Работаю бережно и спокойно: перед первым посещением уточню противопоказания, объясню подготовку и подберу параметры диодного аппарата с учётом кожи, волос и выбранной зоны.
+
+На первое посещение действует скидка 20%. Стоимость небольшой зоны начинается от 500 ₽.
+
+Каждый организм реагирует индивидуально: скорость выпадения волос и необходимое количество процедур могут отличаться.
+
+Адрес: Химки, Старые Химки, Московская улица, 21.
+
+Принимаю ежедневно с 10:00 до 20:00. Напишите в сообщения Авито слово «РЕЗУЛЬТАТ» — отвечу на вопросы, подскажу стоимость нужной зоны и ближайшее свободное время.]]></Description>
+    <Address>Московская область, Химки, Старые Химки, Московская улица, 21</Address>
+    <Price>500</Price>
+    <StartingPrice>Да</StartingPrice>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-results-only-01-underarm-1-v1.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-results-only-02-underarm-2-v1.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-results-only-03-underarm-3-v1.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-results-only-04-legs-3-v1.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-results-only-05-underarm-1-close-v1.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-results-only-06-underarm-2-close-v1.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-results-only-07-underarm-3-close-v1.jpg" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-results-only-08-legs-3-close-v1.jpg" />
+    </Images>
+  </Ad>
 </Ads>
