@@ -416,4 +416,63 @@
       <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-results-only-08-legs-3-close-v1.jpg" />
     </Images>
   </Ad>
+  <Ad>
+    <Id>oksana-service-keylazer23-20260928</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Эпиляция</ServiceSubtype>
+    <Specialty>Лазерная эпиляция</Specialty>
+    <ClientGender>
+      <Option>Женщины</Option>
+      <Option>Мужчины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>Женщина</SpecialistGender>
+    <WorkDays>
+      <Option>Понедельник</Option>
+      <Option>Вторник</Option>
+      <Option>Среда</Option>
+      <Option>Четверг</Option>
+      <Option>Пятница</Option>
+      <Option>Суббота</Option>
+      <Option>Воскресенье</Option>
+    </WorkDays>
+    <WorkTimeFrom>10:00</WorkTimeFrom>
+    <WorkTimeTo>20:00</WorkTimeTo>
+    <Title>Лазерная эпиляция для женщин и мужчин. Быстро и эффективно</Title>
+    <Description><![CDATA[Эта карточка для тех, кто выбирает не только цену, но и оборудование. В студии Оксаны используется диодная система Keylazer 23 — действительно рабочий и сбалансированный вариант для регулярного курса.
+
+Как проходит визит:
+
+1. Сначала обсуждаем выбранную зону и возможные ограничения.
+2. Оцениваем особенности кожи и волос.
+3. Наносим контактный гель.
+4. Последовательно обрабатываем участок, ориентируясь на ваши ощущения.
+5. В завершение выдаём рекомендации на ближайшие дни.
+
+С вами работает Оксана Кожевникова. Она занимается лазерной эпиляцией больше пяти лет и подробно объясняет каждый этап без сложных терминов.
+
+Услуга доступна женщинам и мужчинам. В карточке указана стартовая стоимость небольшой зоны — 500 ₽. Новому гостю уменьшим цену первого визита на 20 процентов.
+
+Необходимое число сеансов и выраженность изменений зависят от особенностей организма. На фотографиях показаны аппарат, рабочие моменты и отзывы посетителей.
+
+Приём проходит на Ленинском проспекте в Химках, без выходных, с 10:00 до 20:00.
+
+Отправьте в чате слово «KEYLAZER» и напишите интересующую зону — сориентируем по стоимости и свободным окнам.]]></Description>
+    <Address>Московская область, Химки, Ленинский проспект</Address>
+    <Price>500</Price>
+    <StartingPrice>Да</StartingPrice>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-keylazer23-01-cover-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-keylazer23-02-oksana-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-keylazer23-03-preparation-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-keylazer23-04-process-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-keylazer23-05-cabinet-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-keylazer23-06-detail-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-keylazer23-07-review-oksana-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-keylazer23-08-review-studio-v1.png" />
+    </Images>
+  </Ad>
 </Ads>
