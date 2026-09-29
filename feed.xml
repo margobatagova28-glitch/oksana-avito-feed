@@ -236,4 +236,62 @@
       <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-results-only-08-legs-3-close-v1.jpg" />
     </Images>
   </Ad>
+  <Ad>
+    <Id>oksana-service-power-yubileyniy-1000-20260929</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Красота</ServiceType>
+    <ServiceSubtype>Эпиляция</ServiceSubtype>
+    <Specialty>Лазерная эпиляция</Specialty>
+    <ClientGender>
+      <Option>Женщины</Option>
+      <Option>Мужчины</Option>
+    </ClientGender>
+    <Place>
+      <Option>В салоне</Option>
+    </Place>
+    <SpecialistGender>Женщина</SpecialistGender>
+    <WorkDays>
+      <Option>Понедельник</Option>
+      <Option>Вторник</Option>
+      <Option>Среда</Option>
+      <Option>Четверг</Option>
+      <Option>Пятница</Option>
+      <Option>Суббота</Option>
+      <Option>Воскресенье</Option>
+    </WorkDays>
+    <WorkTimeFrom>10:00</WorkTimeFrom>
+    <WorkTimeTo>20:00</WorkTimeTo>
+    <Title>Лазерная эпиляция на мощном аппарате</Title>
+    <Description><![CDATA[Эта карточка посвящена результатам лазерной эпиляции и уходу за зонами, где бритьё и пинцет часто становятся постоянной рутиной.
+
+Процедуру проводит Оксана Кожевникова — мастер лазерной эпиляции с опытом более 5 лет. Работа проходит в отдельном кабинете на мощном диодном аппарате. Перед сеансом Оксана уточняет противопоказания, оценивает особенности кожи и волос и подбирает параметры для выбранной зоны.
+
+Во время визита:
+
+— обсуждаем желаемый результат;
+— подбираем настройки аппарата;
+— аккуратно обрабатываем выбранную зону;
+— объясняем правила ухода после процедуры.
+
+В галерее собраны фотографии, показывающие разницу между регулярным бритьём и курсом лазерной эпиляции, а также примеры зон до и после процедур.
+
+Стоимость процедуры по этому объявлению — 1 000 ₽.
+
+Результат и необходимое количество сеансов индивидуальны: они зависят от зоны, структуры волос и особенностей организма.
+
+Адрес: Московская область, Химки, Юбилейный проспект, 66А. Приём ежедневно с 10:00 до 20:00.
+
+Напишите в сообщения Авито интересующую зону — расскажем о подготовке и подберём удобное время.]]></Description>
+    <Address>Московская область, Химки, Юбилейный проспект, 66А</Address>
+    <Price>1000</Price>
+    <Images>
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-power-yubileyniy-1000-01-cover-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-power-yubileyniy-1000-02-before-after-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-power-yubileyniy-1000-03-session6-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-power-yubileyniy-1000-04-session5-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-power-yubileyniy-1000-05-tweezers-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-power-yubileyniy-1000-06-upper-lip-v1.png" />
+      <Image url="https://margobatagova28-glitch.github.io/oksana-avito-feed/photos/oksana-service-power-yubileyniy-1000-07-arms-v1.png" />
+    </Images>
+  </Ad>
 </Ads>
