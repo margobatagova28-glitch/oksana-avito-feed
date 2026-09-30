@@ -2,6 +2,7 @@
 <Ads target="Avito.ru" formatVersion="3">
   <Ad>
     <Id>oksana-train-deep-20260925</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
     <ServiceSubtype>Другое</ServiceSubtype>
@@ -62,6 +63,7 @@
   </Ad>
   <Ad>
     <Id>oksana-service-diode-result-20260928</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>Эпиляция</ServiceSubtype>
@@ -122,6 +124,7 @@
   </Ad>
   <Ad>
     <Id>oksana-service-proletarskaya-700-20260928</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>Эпиляция</ServiceSubtype>
@@ -183,6 +186,7 @@
   </Ad>
   <Ad>
     <Id>oksana-service-results-only-20260928</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>Эпиляция</ServiceSubtype>
@@ -243,6 +247,7 @@
   </Ad>
   <Ad>
     <Id>oksana-service-power-yubileyniy-1000-20260929</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>Эпиляция</ServiceSubtype>
@@ -302,6 +307,7 @@
   </Ad>
   <Ad>
     <Id>oksana-service-discount70-khimki-990-20260929</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>Эпиляция</ServiceSubtype>
@@ -357,6 +363,7 @@
   </Ad>
   <Ad>
     <Id>oksana-train-nowater-20000-20260929</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Обучение, курсы</ServiceType>
     <ServiceSubtype>Другое</ServiceSubtype>
@@ -417,6 +424,7 @@
   </Ad>
   <Ad>
     <Id>oksana-service-underarms-first-1040-20260930</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>Эпиляция</ServiceSubtype>
@@ -471,6 +479,7 @@
   </Ad>
   <Ad>
     <Id>oksana-service-deep-bikini-2080-20260930</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>Эпиляция</ServiceSubtype>
@@ -525,6 +534,7 @@
   </Ad>
   <Ad>
     <Id>oksana-service-full-legs-2640-20260930</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>Эпиляция</ServiceSubtype>
@@ -579,6 +589,7 @@
   </Ad>
   <Ad>
     <Id>oksana-service-bikini-underarms-1990-20260930</Id>
+    <DateEnd>2026-09-29T23:59:00+03:00</DateEnd>
     <Category>Предложение услуг</Category>
     <ServiceType>Красота</ServiceType>
     <ServiceSubtype>Эпиляция</ServiceSubtype>
